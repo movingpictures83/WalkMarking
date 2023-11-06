@@ -1,0 +1,2 @@
+Prefix plugins/WalkMarking/example/
+Plugin WalkMarking inputfile parameters.txt outputfile output.txt
